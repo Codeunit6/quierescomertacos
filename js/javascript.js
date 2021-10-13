@@ -1,5 +1,5 @@
 function accionParaCuandoEllaDigaQueSi(){
-    alert('ahora ya somos nobios <3');
+    alert('ahora ya vamos a comer tacos');
 }
 function mueveElBoton(){
     width = window.innerWidth;
